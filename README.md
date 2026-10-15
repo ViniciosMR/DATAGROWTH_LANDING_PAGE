@@ -13,6 +13,22 @@ Este projeto foi criado como parte de um estudo e prática em desenvolvimento fr
 - formulário de contato para captar leads;
 - layout responsivo para diferentes tamanhos de tela.
 
+## Demonstração visual
+
+Veja algumas das principais áreas da landing page:
+
+| Página inicial | Soluções |
+|:--:|:--:|
+| ![Página inicial da DataGrowth, com chamada para solicitar uma demonstração](img/readme-inicio.png) | ![Seção com as soluções de vouchers, captação de clientes e aumento de receita](img/readme-solucoes.png) |
+
+| Indicadores de performance | Planos |
+|:--:|:--:|
+| ![Painel com indicadores de performance e resultados](img/readme-resultados.png) | ![Tabela comparativa dos planos da plataforma](img/readme-planos.png) |
+
+**Solicitação de demonstração**
+
+![Formulário para solicitar contato e uma demonstração](img/readme-contato.png)
+
 ## Tecnologias utilizadas
 
 - HTML5
@@ -28,9 +44,14 @@ Este projeto foi criado como parte de um estudo e prática em desenvolvimento fr
 │   └── style.css
 ├── Js/
 │   └── script.js
+├── img/
+│   ├── readme-inicio.png
+│   ├── readme-solucoes.png
+│   ├── readme-resultados.png
+│   ├── readme-planos.png
+│   └── readme-contato.png
 ├── index.html
-├── README.md
-└── assets/
+└── README.md
 ```
 
 ## Funcionalidades
